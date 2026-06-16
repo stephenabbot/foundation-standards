@@ -28,9 +28,7 @@ This project does not deploy infrastructure or modify AWS resources. It changes 
 
 Standards for AWS resource tagging across all projects and IaC tools.
 
-- [Tagging Standard](tagging/tagging-standard.md) - Prescriptive rules for required and project-specific tags
-- [Tagging Rationale](tagging/tagging-rationale.md) - Reasoning behind each tagging decision
-- [Tagging Analysis](tagging/tagging-analysis.md) - Current state analysis that informed the standard
+- [Tagging Standard](tagging/tagging-standard.md) - Required tags, values, and deployment-time computation
 
 ## Project Ecosystem
 
